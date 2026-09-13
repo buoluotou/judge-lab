@@ -1,0 +1,229 @@
+{"config": "g22_base", "task": "va01", "cat": "漏洞分析", "style": "-", "score": 8, "parse_ok": true, "chars": 207, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 5963}
+{"config": "g22_base", "task": "va01", "cat": "漏洞分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 374, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 6162}
+{"config": "g22_base", "task": "va01", "cat": "漏洞分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 282, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2271}
+{"config": "g22_base", "task": "va01", "cat": "漏洞分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 202, "resp": "{\"score\": 8} \n", "wall_ms": 2252}
+{"config": "g22_base", "task": "va01", "cat": "漏洞分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 213, "resp": "{\"score\": 8} \n", "wall_ms": 2346}
+{"config": "g22_base", "task": "va01", "cat": "漏洞分析", "style": "report", "score": 8, "parse_ok": true, "chars": 444, "resp": "{\"score\": 8} \n", "wall_ms": 2362}
+{"config": "g22_base", "task": "va02", "cat": "漏洞分析", "style": "-", "score": 8, "parse_ok": true, "chars": 198, "resp": "{\"score\": 8} \n", "wall_ms": 2393}
+{"config": "g22_base", "task": "va02", "cat": "漏洞分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 377, "resp": "{\"score\": 8} \n", "wall_ms": 2391}
+{"config": "g22_base", "task": "va02", "cat": "漏洞分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 349, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2441}
+{"config": "g22_base", "task": "va02", "cat": "漏洞分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 201, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2464}
+{"config": "g22_base", "task": "va02", "cat": "漏洞分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 210, "resp": "{\"score\": 8} \n", "wall_ms": 2216}
+{"config": "g22_base", "task": "va03", "cat": "漏洞分析", "style": "-", "score": 8, "parse_ok": true, "chars": 192, "resp": "{\"score\": 8} \n", "wall_ms": 2212}
+{"config": "g22_base", "task": "va03", "cat": "漏洞分析", "style": "bullet", "score": 7, "parse_ok": true, "chars": 222, "resp": "{\"score\": 7} \n", "wall_ms": 2243}
+{"config": "g22_base", "task": "va03", "cat": "漏洞分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 196, "resp": "{\"score\": 8} \n", "wall_ms": 2213}
+{"config": "g22_base", "task": "va03", "cat": "漏洞分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 201, "resp": "{\"score\": 8} \n", "wall_ms": 2322}
+{"config": "g22_base", "task": "va03", "cat": "漏洞分析", "style": "report", "score": 8, "parse_ok": true, "chars": 700, "resp": "{\"score\": 8} \n", "wall_ms": 2364}
+{"config": "g22_base", "task": "va04", "cat": "漏洞分析", "style": "-", "score": 8, "parse_ok": true, "chars": 207, "resp": "{\"score\": 8} \n", "wall_ms": 2386}
+{"config": "g22_base", "task": "va04", "cat": "漏洞分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 436, "resp": "{\"score\": 8} \n", "wall_ms": 2354}
+{"config": "g22_base", "task": "va04", "cat": "漏洞分析", "style": "bullet", "score": 7, "parse_ok": true, "chars": 363, "resp": "```json\n{\"score\": 7}\n```", "wall_ms": 2444}
+{"config": "g22_base", "task": "va04", "cat": "漏洞分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 212, "resp": "{\"score\": 8} \n", "wall_ms": 2436}
+{"config": "g22_base", "task": "va04", "cat": "漏洞分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 223, "resp": "{\"score\": 8} \n", "wall_ms": 2321}
+{"config": "g22_base", "task": "va04", "cat": "漏洞分析", "style": "report", "score": 8, "parse_ok": true, "chars": 354, "resp": "{\"score\": 8} \n", "wall_ms": 2328}
+{"config": "g22_base", "task": "va05", "cat": "漏洞分析", "style": "-", "score": 8, "parse_ok": true, "chars": 210, "resp": "{\"score\": 8} \n", "wall_ms": 2377}
+{"config": "g22_base", "task": "va05", "cat": "漏洞分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 467, "resp": "{\"score\": 8} \n", "wall_ms": 2384}
+{"config": "g22_base", "task": "va05", "cat": "漏洞分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 353, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2473}
+{"config": "g22_base", "task": "va05", "cat": "漏洞分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 215, "resp": "{\"score\": 8} \n", "wall_ms": 2466}
+{"config": "g22_base", "task": "va05", "cat": "漏洞分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 217, "resp": "{\"score\": 8} \n", "wall_ms": 2329}
+{"config": "g22_base", "task": "va05", "cat": "漏洞分析", "style": "report", "score": 8, "parse_ok": true, "chars": 370, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2362}
+{"config": "g22_base", "task": "sa01", "cat": "告警研判", "style": "-", "score": 8, "parse_ok": true, "chars": 160, "resp": "{\"score\": 8} \n", "wall_ms": 2377}
+{"config": "g22_base", "task": "sa01", "cat": "告警研判", "style": "verbose", "score": 8, "parse_ok": true, "chars": 377, "resp": "{\"score\": 8} \n", "wall_ms": 2346}
+{"config": "g22_base", "task": "sa01", "cat": "告警研判", "style": "jargon", "score": 8, "parse_ok": true, "chars": 161, "resp": "{\"score\": 8} \n", "wall_ms": 2347}
+{"config": "g22_base", "task": "sa01", "cat": "告警研判", "style": "confident", "score": 8, "parse_ok": true, "chars": 163, "resp": "{\"score\": 8} \n", "wall_ms": 2344}
+{"config": "g22_base", "task": "sa01", "cat": "告警研判", "style": "report", "score": 8, "parse_ok": true, "chars": 442, "resp": "{\"score\": 8} \n", "wall_ms": 2360}
+{"config": "g22_base", "task": "va01", "cat": "漏洞分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 230, "resp": "{\"score\": 8} \n", "wall_ms": 6297}
+{"config": "g22_base", "task": "va01", "cat": "漏洞分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 216, "resp": "{\"score\": 8} \n", "wall_ms": 6566}
+{"config": "g22_base", "task": "va02", "cat": "漏洞分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 247, "resp": "{\"score\": 8} \n", "wall_ms": 2302}
+{"config": "g22_base", "task": "va02", "cat": "漏洞分析", "style": "confident2", "score": 9, "parse_ok": true, "chars": 210, "resp": "```json\n{\"score\": 9}\n```", "wall_ms": 2368}
+{"config": "g22_base", "task": "va03", "cat": "漏洞分析", "style": "jargon2", "score": 7, "parse_ok": true, "chars": 233, "resp": "```json\n{\"score\": 7}\n```", "wall_ms": 2486}
+{"config": "g22_base", "task": "va03", "cat": "漏洞分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 209, "resp": "{\"score\": 8} \n", "wall_ms": 2437}
+{"config": "g22_base", "task": "va04", "cat": "漏洞分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 227, "resp": "{\"score\": 8} \n", "wall_ms": 2505}
+{"config": "g22_base", "task": "va04", "cat": "漏洞分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 217, "resp": "{\"score\": 8} \n", "wall_ms": 2487}
+{"config": "g22_base", "task": "va05", "cat": "漏洞分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 268, "resp": "{\"score\": 8} \n", "wall_ms": 2451}
+{"config": "g22_base", "task": "va05", "cat": "漏洞分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 223, "resp": "{\"score\": 8} \n", "wall_ms": 2461}
+{"config": "g22_base", "task": "sa01", "cat": "告警研判", "style": "confident2", "score": 8, "parse_ok": true, "chars": 162, "resp": "{\"score\": 8} \n", "wall_ms": 2421}
+{"config": "g22_base", "task": "sa02", "cat": "告警研判", "style": "-", "score": 8, "parse_ok": true, "chars": 178, "resp": "{\"score\": 8} \n", "wall_ms": 2391}
+{"config": "g22_base", "task": "sa02", "cat": "告警研判", "style": "verbose", "score": 8, "parse_ok": true, "chars": 491, "resp": "{\"score\": 8} \n", "wall_ms": 2463}
+{"config": "g22_base", "task": "sa02", "cat": "告警研判", "style": "bullet", "score": 8, "parse_ok": true, "chars": 227, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2558}
+{"config": "g22_base", "task": "sa02", "cat": "告警研判", "style": "jargon", "score": 8, "parse_ok": true, "chars": 195, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2444}
+{"config": "g22_base", "task": "sa02", "cat": "告警研判", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 187, "resp": "{\"score\": 8} \n", "wall_ms": 2356}
+{"config": "g22_base", "task": "sa02", "cat": "告警研判", "style": "confident", "score": 8, "parse_ok": true, "chars": 182, "resp": "{\"score\": 8} \n", "wall_ms": 2404}
+{"config": "g22_base", "task": "sa02", "cat": "告警研判", "style": "confident2", "score": 8, "parse_ok": true, "chars": 176, "resp": "{\"score\": 8} \n", "wall_ms": 2412}
+{"config": "g22_base", "task": "sa02", "cat": "告警研判", "style": "report", "score": 8, "parse_ok": true, "chars": 434, "resp": "{\"score\": 8} \n", "wall_ms": 2505}
+{"config": "g22_base", "task": "sa03", "cat": "告警研判", "style": "-", "score": 8, "parse_ok": true, "chars": 164, "resp": "{\"score\": 8} \n", "wall_ms": 2507}
+{"config": "g22_base", "task": "sa03", "cat": "告警研判", "style": "verbose", "score": 8, "parse_ok": true, "chars": 509, "resp": "{\"score\": 8} \n", "wall_ms": 2576}
+{"config": "g22_base", "task": "sa03", "cat": "告警研判", "style": "bullet", "score": 7, "parse_ok": true, "chars": 198, "resp": "```json\n{\"score\": 7}\n```", "wall_ms": 2652}
+{"config": "g22_base", "task": "sa03", "cat": "告警研判", "style": "jargon", "score": 8, "parse_ok": true, "chars": 168, "resp": "{\"score\": 8} \n", "wall_ms": 2288}
+{"config": "g22_base", "task": "sa03", "cat": "告警研判", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 168, "resp": "{\"score\": 8} \n", "wall_ms": 2298}
+{"config": "g22_base", "task": "sa03", "cat": "告警研判", "style": "confident", "score": 8, "parse_ok": true, "chars": 168, "resp": "{\"score\": 8} \n", "wall_ms": 2371}
+{"config": "g22_base", "task": "sa03", "cat": "告警研判", "style": "confident2", "score": 8, "parse_ok": true, "chars": 173, "resp": "{\"score\": 8} \n", "wall_ms": 2297}
+{"config": "g22_base", "task": "sa03", "cat": "告警研判", "style": "report", "score": 8, "parse_ok": true, "chars": 556, "resp": "```json\n{\"score\": 8}\n``` \n", "wall_ms": 2481}
+{"config": "g22_base", "task": "sa04", "cat": "告警研判", "style": "-", "score": 8, "parse_ok": true, "chars": 140, "resp": "{\"score\": 8} \n", "wall_ms": 2480}
+{"config": "g22_base", "task": "sa04", "cat": "告警研判", "style": "verbose", "score": 7, "parse_ok": true, "chars": 428, "resp": "{\"score\": 7} \n", "wall_ms": 2496}
+{"config": "g22_base", "task": "sa04", "cat": "告警研判", "style": "bullet", "score": 7, "parse_ok": true, "chars": 224, "resp": "{\"score\": 7} \n", "wall_ms": 2518}
+{"config": "g22_base", "task": "sa04", "cat": "告警研判", "style": "jargon", "score": 8, "parse_ok": true, "chars": 153, "resp": "{\"score\": 8} \n", "wall_ms": 2307}
+{"config": "g22_base", "task": "sa04", "cat": "告警研判", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 233, "resp": "{\"score\": 8} \n", "wall_ms": 2297}
+{"config": "g22_base", "task": "sa04", "cat": "告警研判", "style": "confident", "score": 8, "parse_ok": true, "chars": 140, "resp": "{\"score\": 8} \n", "wall_ms": 2432}
+{"config": "g22_base", "task": "sa04", "cat": "告警研判", "style": "confident2", "score": 7, "parse_ok": true, "chars": 142, "resp": "{\"score\": 7} \n", "wall_ms": 2380}
+{"config": "g22_base", "task": "sa04", "cat": "告警研判", "style": "report", "score": 8, "parse_ok": true, "chars": 510, "resp": "{\"score\": 8} \n", "wall_ms": 2581}
+{"config": "g22_base", "task": "sa05", "cat": "告警研判", "style": "-", "score": 8, "parse_ok": true, "chars": 145, "resp": "{\"score\": 8} \n", "wall_ms": 2635}
+{"config": "g22_base", "task": "sa05", "cat": "告警研判", "style": "verbose", "score": 8, "parse_ok": true, "chars": 304, "resp": "{\"score\": 8} \n", "wall_ms": 2443}
+{"config": "g22_base", "task": "sa05", "cat": "告警研判", "style": "bullet", "score": 8, "parse_ok": true, "chars": 339, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2532}
+{"config": "g22_base", "task": "sa05", "cat": "告警研判", "style": "jargon", "score": 8, "parse_ok": true, "chars": 146, "resp": "{\"score\": 8} \n", "wall_ms": 2335}
+{"config": "g22_base", "task": "sa05", "cat": "告警研判", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 144, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2318}
+{"config": "g22_base", "task": "sa05", "cat": "告警研判", "style": "confident", "score": 8, "parse_ok": true, "chars": 148, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2300}
+{"config": "g22_base", "task": "sa05", "cat": "告警研判", "style": "confident2", "score": 8, "parse_ok": true, "chars": 153, "resp": "{\"score\": 8} \n", "wall_ms": 2300}
+{"config": "g22_base", "task": "sa05", "cat": "告警研判", "style": "report", "score": 8, "parse_ok": true, "chars": 540, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2475}
+{"config": "g22_base", "task": "ca01", "cat": "代码审计", "style": "-", "score": 8, "parse_ok": true, "chars": 138, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2437}
+{"config": "g22_base", "task": "ca01", "cat": "代码审计", "style": "verbose", "score": 8, "parse_ok": true, "chars": 320, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2503}
+{"config": "g22_base", "task": "ca01", "cat": "代码审计", "style": "bullet", "score": 8, "parse_ok": true, "chars": 138, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2481}
+{"config": "g22_base", "task": "ca01", "cat": "代码审计", "style": "jargon", "score": 8, "parse_ok": true, "chars": 153, "resp": "{\"score\": 8} \n", "wall_ms": 2331}
+{"config": "g22_base", "task": "ca01", "cat": "代码审计", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 151, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2349}
+{"config": "g22_base", "task": "ca01", "cat": "代码审计", "style": "confident", "score": 8, "parse_ok": true, "chars": 147, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2356}
+{"config": "g22_base", "task": "ca01", "cat": "代码审计", "style": "confident2", "score": 8, "parse_ok": true, "chars": 151, "resp": "{\"score\": 8} \n", "wall_ms": 2304}
+{"config": "g22_base", "task": "ca01", "cat": "代码审计", "style": "report", "score": 8, "parse_ok": true, "chars": 519, "resp": "{\"score\": 8} \n", "wall_ms": 2510}
+{"config": "g22_base", "task": "ca02", "cat": "代码审计", "style": "-", "score": 8, "parse_ok": true, "chars": 219, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2557}
+{"config": "g22_base", "task": "ca02", "cat": "代码审计", "style": "verbose", "score": 9, "parse_ok": true, "chars": 677, "resp": "{\"score\": 9} \n", "wall_ms": 2422}
+{"config": "g22_base", "task": "ca02", "cat": "代码审计", "style": "bullet", "score": 8, "parse_ok": true, "chars": 293, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2442}
+{"config": "g22_base", "task": "ca02", "cat": "代码审计", "style": "jargon", "score": 9, "parse_ok": true, "chars": 247, "resp": "{\"score\": 9}", "wall_ms": 2263}
+{"config": "g22_base", "task": "ca02", "cat": "代码审计", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 250, "resp": "{\"score\": 8} \n", "wall_ms": 2305}
+{"config": "g22_base", "task": "ca02", "cat": "代码审计", "style": "confident", "score": 8, "parse_ok": true, "chars": 224, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2316}
+{"config": "g22_base", "task": "ca02", "cat": "代码审计", "style": "confident2", "score": 8, "parse_ok": true, "chars": 229, "resp": "{\"score\": 8} \n", "wall_ms": 2290}
+{"config": "g22_base", "task": "ca02", "cat": "代码审计", "style": "report", "score": 8, "parse_ok": true, "chars": 675, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2427}
+{"config": "g22_base", "task": "ca03", "cat": "代码审计", "style": "-", "score": 8, "parse_ok": true, "chars": 150, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2388}
+{"config": "g22_base", "task": "ca03", "cat": "代码审计", "style": "bullet", "score": 8, "parse_ok": true, "chars": 190, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2394}
+{"config": "g22_base", "task": "ca03", "cat": "代码审计", "style": "jargon", "score": 8, "parse_ok": true, "chars": 160, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2383}
+{"config": "g22_base", "task": "ca03", "cat": "代码审计", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 349, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2426}
+{"config": "g22_base", "task": "ca03", "cat": "代码审计", "style": "confident", "score": 9, "parse_ok": true, "chars": 152, "resp": "```json\n{\"score\": 9}\n```", "wall_ms": 2429}
+{"config": "g22_base", "task": "ca03", "cat": "代码审计", "style": "confident2", "score": 8, "parse_ok": true, "chars": 154, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2479}
+{"config": "g22_base", "task": "ca03", "cat": "代码审计", "style": "report", "score": 8, "parse_ok": true, "chars": 605, "resp": "```json\n{\"score\": 8}\n``` \n", "wall_ms": 2597}
+{"config": "g22_base", "task": "ca04", "cat": "代码审计", "style": "-", "score": 8, "parse_ok": true, "chars": 149, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2348}
+{"config": "g22_base", "task": "ca04", "cat": "代码审计", "style": "verbose", "score": 8, "parse_ok": true, "chars": 342, "resp": "{\"score\": 8}", "wall_ms": 2291}
+{"config": "g22_base", "task": "ca04", "cat": "代码审计", "style": "jargon", "score": 8, "parse_ok": true, "chars": 160, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2362}
+{"config": "g22_base", "task": "ca04", "cat": "代码审计", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 159, "resp": "{\"score\": 8}", "wall_ms": 2241}
+{"config": "g22_base", "task": "ca04", "cat": "代码审计", "style": "confident", "score": 8, "parse_ok": true, "chars": 157, "resp": "{\"score\": 8}", "wall_ms": 2429}
+{"config": "g22_base", "task": "ca04", "cat": "代码审计", "style": "confident2", "score": 8, "parse_ok": true, "chars": 149, "resp": "{\"score\": 8}", "wall_ms": 2408}
+{"config": "g22_base", "task": "ca04", "cat": "代码审计", "style": "report", "score": 8, "parse_ok": true, "chars": 527, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2543}
+{"config": "g22_base", "task": "ca05", "cat": "代码审计", "style": "-", "score": 7, "parse_ok": true, "chars": 140, "resp": "{\"score\": 7}", "wall_ms": 2566}
+{"config": "g22_base", "task": "ca05", "cat": "代码审计", "style": "verbose", "score": 8, "parse_ok": true, "chars": 400, "resp": "{\"score\": 8} \n", "wall_ms": 2452}
+{"config": "g22_base", "task": "ca05", "cat": "代码审计", "style": "jargon", "score": 7, "parse_ok": true, "chars": 156, "resp": "{\"score\": 7} \n", "wall_ms": 2478}
+{"config": "g22_base", "task": "ca05", "cat": "代码审计", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 454, "resp": "{\"score\": 8} \n", "wall_ms": 2476}
+{"config": "g22_base", "task": "ca05", "cat": "代码审计", "style": "confident", "score": 8, "parse_ok": true, "chars": 157, "resp": "{\"score\": 8} \n", "wall_ms": 2473}
+{"config": "g22_base", "task": "ca05", "cat": "代码审计", "style": "report", "score": 8, "parse_ok": true, "chars": 748, "resp": "```json\n{\"score\": 8}\n``` \n", "wall_ms": 2506}
+{"config": "g22_base", "task": "io01", "cat": "IOC分析", "style": "-", "score": 8, "parse_ok": true, "chars": 213, "resp": "{\"score\": 8} \n", "wall_ms": 2537}
+{"config": "g22_base", "task": "io01", "cat": "IOC分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 408, "resp": "{\"score\": 8} \n", "wall_ms": 2485}
+{"config": "g22_base", "task": "io01", "cat": "IOC分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 241, "resp": "{\"score\": 8} \n", "wall_ms": 2486}
+{"config": "g22_base", "task": "io01", "cat": "IOC分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 227, "resp": "{\"score\": 8} \n", "wall_ms": 2351}
+{"config": "g22_base", "task": "io01", "cat": "IOC分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 213, "resp": "{\"score\": 8} \n", "wall_ms": 2310}
+{"config": "g22_base", "task": "io01", "cat": "IOC分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 223, "resp": "{\"score\": 8} \n", "wall_ms": 2507}
+{"config": "g22_base", "task": "io01", "cat": "IOC分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 213, "resp": "{\"score\": 8} \n", "wall_ms": 2535}
+{"config": "g22_base", "task": "io01", "cat": "IOC分析", "style": "report", "score": 8, "parse_ok": true, "chars": 628, "resp": "{\"score\": 8} \n", "wall_ms": 2532}
+{"config": "g22_base", "task": "io02", "cat": "IOC分析", "style": "-", "score": 8, "parse_ok": true, "chars": 143, "resp": "{\"score\": 8} \n", "wall_ms": 2535}
+{"config": "g22_base", "task": "io02", "cat": "IOC分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 227, "resp": "{\"score\": 8} \n", "wall_ms": 2337}
+{"config": "g22_base", "task": "io02", "cat": "IOC分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 174, "resp": "{\"score\": 8} \n", "wall_ms": 2338}
+{"config": "g22_base", "task": "io02", "cat": "IOC分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 156, "resp": "{\"score\": 8} \n", "wall_ms": 2531}
+{"config": "g22_base", "task": "io02", "cat": "IOC分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 159, "resp": "{\"score\": 8} \n", "wall_ms": 2503}
+{"config": "g22_base", "task": "io02", "cat": "IOC分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 153, "resp": "{\"score\": 8} \n", "wall_ms": 2467}
+{"config": "g22_base", "task": "io02", "cat": "IOC分析", "style": "confident2", "score": 7, "parse_ok": true, "chars": 151, "resp": "{\"score\": 7} \n", "wall_ms": 2477}
+{"config": "g22_base", "task": "io02", "cat": "IOC分析", "style": "report", "score": 8, "parse_ok": true, "chars": 592, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2567}
+{"config": "g22_base", "task": "io03", "cat": "IOC分析", "style": "-", "score": 7, "parse_ok": true, "chars": 313, "resp": "{\"score\": 7} \n", "wall_ms": 2643}
+{"config": "g22_base", "task": "io03", "cat": "IOC分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 389, "resp": "{\"score\": 8} \n", "wall_ms": 2578}
+{"config": "g22_base", "task": "io03", "cat": "IOC分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 419, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2666}
+{"config": "g22_base", "task": "io03", "cat": "IOC分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 323, "resp": "{\"score\": 8} \n", "wall_ms": 2410}
+{"config": "g22_base", "task": "io03", "cat": "IOC分析", "style": "jargon2", "score": 7, "parse_ok": true, "chars": 322, "resp": "{\"score\": 7} \n", "wall_ms": 2387}
+{"config": "g22_base", "task": "io03", "cat": "IOC分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 317, "resp": "{\"score\": 8} \n", "wall_ms": 2357}
+{"config": "g22_base", "task": "io03", "cat": "IOC分析", "style": "report", "score": 8, "parse_ok": true, "chars": 685, "resp": "{\"score\": 8} \n", "wall_ms": 2490}
+{"config": "g22_base", "task": "io04", "cat": "IOC分析", "style": "-", "score": 8, "parse_ok": true, "chars": 176, "resp": "{\"score\": 8} \n", "wall_ms": 2337}
+{"config": "g22_base", "task": "io04", "cat": "IOC分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 461, "resp": "{\"score\": 8} \n", "wall_ms": 2387}
+{"config": "g22_base", "task": "io04", "cat": "IOC分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 357, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2456}
+{"config": "g22_base", "task": "io04", "cat": "IOC分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 183, "resp": "{\"score\": 8} \n", "wall_ms": 2367}
+{"config": "g22_base", "task": "io04", "cat": "IOC分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 219, "resp": "{\"score\": 8} \n", "wall_ms": 2333}
+{"config": "g22_base", "task": "io04", "cat": "IOC分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 183, "resp": "{\"score\": 8} \n", "wall_ms": 2327}
+{"config": "g22_base", "task": "io04", "cat": "IOC分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 183, "resp": "{\"score\": 8} \n", "wall_ms": 2299}
+{"config": "g22_base", "task": "io04", "cat": "IOC分析", "style": "report", "score": 8, "parse_ok": true, "chars": 496, "resp": "{\"score\": 8} \n", "wall_ms": 2373}
+{"config": "g22_base", "task": "io05", "cat": "IOC分析", "style": "-", "score": 8, "parse_ok": true, "chars": 128, "resp": "{\"score\": 8} \n", "wall_ms": 2310}
+{"config": "g22_base", "task": "io05", "cat": "IOC分析", "style": "verbose", "score": 8, "parse_ok": true, "chars": 338, "resp": "```json\n{\"score\": 8}\n``` \n", "wall_ms": 2429}
+{"config": "g22_base", "task": "io05", "cat": "IOC分析", "style": "bullet", "score": 7, "parse_ok": true, "chars": 278, "resp": "{\"score\": 7} \n", "wall_ms": 2350}
+{"config": "g22_base", "task": "io05", "cat": "IOC分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 137, "resp": "{\"score\": 8} \n", "wall_ms": 2328}
+{"config": "g22_base", "task": "io05", "cat": "IOC分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 127, "resp": "{\"score\": 8} \n", "wall_ms": 2343}
+{"config": "g22_base", "task": "io05", "cat": "IOC分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 135, "resp": "{\"score\": 8} \n", "wall_ms": 2344}
+{"config": "g22_base", "task": "io05", "cat": "IOC分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 134, "resp": "{\"score\": 8} \n", "wall_ms": 2325}
+{"config": "g22_base", "task": "io05", "cat": "IOC分析", "style": "report", "score": 8, "parse_ok": true, "chars": 432, "resp": "{\"score\": 8} \n", "wall_ms": 2375}
+{"config": "g22_base", "task": "rr01", "cat": "风险评级", "style": "-", "score": 8, "parse_ok": true, "chars": 145, "resp": "{\"score\": 8} \n", "wall_ms": 2316}
+{"config": "g22_base", "task": "rr01", "cat": "风险评级", "style": "verbose", "score": 8, "parse_ok": true, "chars": 305, "resp": "{\"score\": 8} \n", "wall_ms": 2370}
+{"config": "g22_base", "task": "rr01", "cat": "风险评级", "style": "bullet", "score": 8, "parse_ok": true, "chars": 177, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2380}
+{"config": "g22_base", "task": "rr01", "cat": "风险评级", "style": "jargon", "score": 8, "parse_ok": true, "chars": 157, "resp": "{\"score\": 8} \n", "wall_ms": 2338}
+{"config": "g22_base", "task": "rr01", "cat": "风险评级", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 194, "resp": "{\"score\": 8} \n", "wall_ms": 2321}
+{"config": "g22_base", "task": "rr01", "cat": "风险评级", "style": "confident", "score": 8, "parse_ok": true, "chars": 147, "resp": "{\"score\": 8} \n", "wall_ms": 2345}
+{"config": "g22_base", "task": "rr01", "cat": "风险评级", "style": "confident2", "score": 9, "parse_ok": true, "chars": 153, "resp": "{\"score\": 9} \n", "wall_ms": 2330}
+{"config": "g22_base", "task": "rr01", "cat": "风险评级", "style": "report", "score": 8, "parse_ok": true, "chars": 347, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2413}
+{"config": "g22_base", "task": "rr02", "cat": "风险评级", "style": "-", "score": 8, "parse_ok": true, "chars": 145, "resp": "{\"score\": 8} \n", "wall_ms": 2339}
+{"config": "g22_base", "task": "rr02", "cat": "风险评级", "style": "verbose", "score": 8, "parse_ok": true, "chars": 436, "resp": "{\"score\": 8}", "wall_ms": 2344}
+{"config": "g22_base", "task": "rr02", "cat": "风险评级", "style": "bullet", "score": 7, "parse_ok": true, "chars": 186, "resp": "```json\n{\"score\": 7}\n```", "wall_ms": 2445}
+{"config": "g22_base", "task": "rr02", "cat": "风险评级", "style": "jargon", "score": 8, "parse_ok": true, "chars": 153, "resp": "{\"score\": 8} \n", "wall_ms": 2301}
+{"config": "g22_base", "task": "rr02", "cat": "风险评级", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 338, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2388}
+{"config": "g22_base", "task": "rr02", "cat": "风险评级", "style": "confident", "score": 8, "parse_ok": true, "chars": 144, "resp": "{\"score\": 8} \n", "wall_ms": 2328}
+{"config": "g22_base", "task": "rr02", "cat": "风险评级", "style": "confident2", "score": 7, "parse_ok": true, "chars": 148, "resp": "{\"score\": 7} \n", "wall_ms": 2316}
+{"config": "g22_base", "task": "rr02", "cat": "风险评级", "style": "report", "score": 7, "parse_ok": true, "chars": 219, "resp": "{\"score\": 7} \n", "wall_ms": 2332}
+{"config": "g22_base", "task": "rr03", "cat": "风险评级", "style": "-", "score": 8, "parse_ok": true, "chars": 121, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2364}
+{"config": "g22_base", "task": "rr03", "cat": "风险评级", "style": "verbose", "score": 8, "parse_ok": true, "chars": 244, "resp": "{\"score\": 8} \n", "wall_ms": 2341}
+{"config": "g22_base", "task": "rr03", "cat": "风险评级", "style": "bullet", "score": 8, "parse_ok": true, "chars": 184, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2393}
+{"config": "g22_base", "task": "rr03", "cat": "风险评级", "style": "jargon", "score": 8, "parse_ok": true, "chars": 121, "resp": "{\"score\": 8} \n", "wall_ms": 2271}
+{"config": "g22_base", "task": "rr03", "cat": "风险评级", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 167, "resp": "{\"score\": 8} \n", "wall_ms": 2322}
+{"config": "g22_base", "task": "rr03", "cat": "风险评级", "style": "confident", "score": 8, "parse_ok": true, "chars": 126, "resp": "{\"score\": 8} \n", "wall_ms": 2342}
+{"config": "g22_base", "task": "rr03", "cat": "风险评级", "style": "confident2", "score": 8, "parse_ok": true, "chars": 129, "resp": "{\"score\": 8}", "wall_ms": 2279}
+{"config": "g22_base", "task": "rr03", "cat": "风险评级", "style": "report", "score": 8, "parse_ok": true, "chars": 504, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2449}
+{"config": "g22_base", "task": "rr04", "cat": "风险评级", "style": "-", "score": 7, "parse_ok": true, "chars": 124, "resp": "{\"score\": 7}", "wall_ms": 2302}
+{"config": "g22_base", "task": "rr04", "cat": "风险评级", "style": "verbose", "score": 7, "parse_ok": true, "chars": 249, "resp": "{\"score\": 7} \n", "wall_ms": 2335}
+{"config": "g22_base", "task": "rr04", "cat": "风险评级", "style": "bullet", "score": 7, "parse_ok": true, "chars": 149, "resp": "{\"score\": 7} \n", "wall_ms": 2343}
+{"config": "g22_base", "task": "rr04", "cat": "风险评级", "style": "jargon", "score": 7, "parse_ok": true, "chars": 134, "resp": "{\"score\": 7} \n", "wall_ms": 2327}
+{"config": "g22_base", "task": "rr04", "cat": "风险评级", "style": "confident", "score": 7, "parse_ok": true, "chars": 126, "resp": "{\"score\": 7} \n", "wall_ms": 2295}
+{"config": "g22_base", "task": "rr04", "cat": "风险评级", "style": "confident2", "score": 7, "parse_ok": true, "chars": 126, "resp": "{\"score\": 7} \n", "wall_ms": 2281}
+{"config": "g22_base", "task": "rr04", "cat": "风险评级", "style": "report", "score": 8, "parse_ok": true, "chars": 520, "resp": "{\"score\": 8} \n", "wall_ms": 2411}
+{"config": "g22_base", "task": "rr05", "cat": "风险评级", "style": "-", "score": 8, "parse_ok": true, "chars": 130, "resp": "{\"score\": 8} \n", "wall_ms": 2347}
+{"config": "g22_base", "task": "rr05", "cat": "风险评级", "style": "verbose", "score": 8, "parse_ok": true, "chars": 253, "resp": "{\"score\": 8} \n", "wall_ms": 2341}
+{"config": "g22_base", "task": "rr05", "cat": "风险评级", "style": "bullet", "score": 7, "parse_ok": true, "chars": 176, "resp": "```json\n{\"score\": 7}\n```", "wall_ms": 2379}
+{"config": "g22_base", "task": "rr05", "cat": "风险评级", "style": "jargon", "score": 8, "parse_ok": true, "chars": 131, "resp": "{\"score\": 8} \n", "wall_ms": 2325}
+{"config": "g22_base", "task": "rr05", "cat": "风险评级", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 147, "resp": "{\"score\": 8} \n", "wall_ms": 2293}
+{"config": "g22_base", "task": "rr05", "cat": "风险评级", "style": "confident", "score": 8, "parse_ok": true, "chars": 136, "resp": "{\"score\": 8} \n", "wall_ms": 2296}
+{"config": "g22_base", "task": "rr05", "cat": "风险评级", "style": "confident2", "score": 8, "parse_ok": true, "chars": 125, "resp": "{\"score\": 8}", "wall_ms": 2273}
+{"config": "g22_base", "task": "rr05", "cat": "风险评级", "style": "report", "score": 8, "parse_ok": true, "chars": 430, "resp": "{\"score\": 8} \n", "wall_ms": 2395}
+{"config": "g22_base", "task": "ir01", "cat": "应急响应", "style": "-", "score": 8, "parse_ok": true, "chars": 172, "resp": "{\"score\": 8} \n", "wall_ms": 2356}
+{"config": "g22_base", "task": "ir01", "cat": "应急响应", "style": "verbose", "score": 7, "parse_ok": true, "chars": 409, "resp": "{\"score\": 7} \n", "wall_ms": 2366}
+{"config": "g22_base", "task": "ir01", "cat": "应急响应", "style": "jargon", "score": 8, "parse_ok": true, "chars": 194, "resp": "{\"score\": 8} \n", "wall_ms": 2342}
+{"config": "g22_base", "task": "ir01", "cat": "应急响应", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 189, "resp": "{\"score\": 8} \n", "wall_ms": 2341}
+{"config": "g22_base", "task": "ir01", "cat": "应急响应", "style": "confident", "score": 8, "parse_ok": true, "chars": 174, "resp": "{\"score\": 8} \n", "wall_ms": 2322}
+{"config": "g22_base", "task": "ir01", "cat": "应急响应", "style": "confident2", "score": 8, "parse_ok": true, "chars": 175, "resp": "{\"score\": 8} \n", "wall_ms": 2283}
+{"config": "g22_base", "task": "ir01", "cat": "应急响应", "style": "report", "score": 8, "parse_ok": true, "chars": 538, "resp": "{\"score\": 8} \n", "wall_ms": 2425}
+{"config": "g22_base", "task": "ir02", "cat": "应急响应", "style": "-", "score": 7, "parse_ok": true, "chars": 111, "resp": "{\"score\": 7} \n", "wall_ms": 2340}
+{"config": "g22_base", "task": "ir02", "cat": "应急响应", "style": "verbose", "score": 8, "parse_ok": true, "chars": 316, "resp": "{\"score\": 8} \n", "wall_ms": 2348}
+{"config": "g22_base", "task": "ir02", "cat": "应急响应", "style": "bullet", "score": 7, "parse_ok": true, "chars": 96, "resp": "```json\n{\"score\": 7}\n```", "wall_ms": 2366}
+{"config": "g22_base", "task": "ir02", "cat": "应急响应", "style": "jargon", "score": 7, "parse_ok": true, "chars": 120, "resp": "{\"score\": 7} \n", "wall_ms": 2297}
+{"config": "g22_base", "task": "ir02", "cat": "应急响应", "style": "jargon2", "score": 7, "parse_ok": true, "chars": 130, "resp": "{\"score\": 7} \n", "wall_ms": 2314}
+{"config": "g22_base", "task": "ir02", "cat": "应急响应", "style": "confident", "score": 8, "parse_ok": true, "chars": 113, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2342}
+{"config": "g22_base", "task": "ir02", "cat": "应急响应", "style": "confident2", "score": 8, "parse_ok": true, "chars": 130, "resp": "{\"score\": 8}", "wall_ms": 2299}
+{"config": "g22_base", "task": "ir02", "cat": "应急响应", "style": "report", "score": 8, "parse_ok": true, "chars": 521, "resp": "{\"score\": 8} \n", "wall_ms": 2432}
+{"config": "g22_base", "task": "ir03", "cat": "应急响应", "style": "-", "score": 8, "parse_ok": true, "chars": 134, "resp": "{\"score\": 8} \n", "wall_ms": 2301}
+{"config": "g22_base", "task": "ir03", "cat": "应急响应", "style": "verbose", "score": 8, "parse_ok": true, "chars": 442, "resp": "{\"score\": 8} \n", "wall_ms": 2369}
+{"config": "g22_base", "task": "ir03", "cat": "应急响应", "style": "bullet", "score": 7, "parse_ok": true, "chars": 120, "resp": "```json\n{\"score\": 7}\n```", "wall_ms": 2383}
+{"config": "g22_base", "task": "ir03", "cat": "应急响应", "style": "jargon", "score": 8, "parse_ok": true, "chars": 156, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2349}
+{"config": "g22_base", "task": "ir03", "cat": "应急响应", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 288, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2395}
+{"config": "g22_base", "task": "ir03", "cat": "应急响应", "style": "confident", "score": 8, "parse_ok": true, "chars": 156, "resp": "```json\n{\"score\": 8}\n```", "wall_ms": 2347}
+{"config": "g22_base", "task": "ir03", "cat": "应急响应", "style": "confident2", "score": 8, "parse_ok": true, "chars": 155, "resp": "{\"score\": 8} \n", "wall_ms": 2333}
+{"config": "g22_base", "task": "ir03", "cat": "应急响应", "style": "report", "score": 8, "parse_ok": true, "chars": 553, "resp": "{\"score\": 8} \n", "wall_ms": 2407}
+{"config": "g22_base", "task": "ir04", "cat": "应急响应", "style": "-", "score": 8, "parse_ok": true, "chars": 119, "resp": "{\"score\": 8} \n", "wall_ms": 2341}
+{"config": "g22_base", "task": "ir04", "cat": "应急响应", "style": "verbose", "score": 8, "parse_ok": true, "chars": 396, "resp": "{\"score\": 8} \n", "wall_ms": 2342}
+{"config": "g22_base", "task": "ir04", "cat": "应急响应", "style": "bullet", "score": 8, "parse_ok": true, "chars": 160, "resp": "{\"score\": 8} \n", "wall_ms": 2352}
+{"config": "g22_base", "task": "ir04", "cat": "应急响应", "style": "jargon", "score": 8, "parse_ok": true, "chars": 145, "resp": "{\"score\": 8} \n", "wall_ms": 2333}
+{"config": "g22_base", "task": "ir04", "cat": "应急响应", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 144, "resp": "{\"score\": 8} \n", "wall_ms": 2323}
+{"config": "g22_base", "task": "ir04", "cat": "应急响应", "style": "confident", "score": 8, "parse_ok": true, "chars": 125, "resp": "{\"score\": 8} \n", "wall_ms": 2292}
+{"config": "g22_base", "task": "ir04", "cat": "应急响应", "style": "confident2", "score": 8, "parse_ok": true, "chars": 132, "resp": "{\"score\": 8} \n", "wall_ms": 2320}
+{"config": "g22_base", "task": "ir04", "cat": "应急响应", "style": "report", "score": 8, "parse_ok": true, "chars": 439, "resp": "{\"score\": 8} \n", "wall_ms": 2331}
+{"config": "g22_base", "task": "ir05", "cat": "应急响应", "style": "-", "score": 8, "parse_ok": true, "chars": 120, "resp": "{\"score\": 8} \n", "wall_ms": 2327}
+{"config": "g22_base", "task": "ir05", "cat": "应急响应", "style": "verbose", "score": 8, "parse_ok": true, "chars": 296, "resp": "{\"score\": 8} \n", "wall_ms": 2333}
+{"config": "g22_base", "task": "ir05", "cat": "应急响应", "style": "bullet", "score": 7, "parse_ok": true, "chars": 194, "resp": "```json\n{\"score\": 7}\n```", "wall_ms": 2353}
+{"config": "g22_base", "task": "ir05", "cat": "应急响应", "style": "jargon", "score": 8, "parse_ok": true, "chars": 143, "resp": "{\"score\": 8} \n", "wall_ms": 2302}
+{"config": "g22_base", "task": "ir05", "cat": "应急响应", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 126, "resp": "{\"score\": 8} \n", "wall_ms": 2300}
+{"config": "g22_base", "task": "ir05", "cat": "应急响应", "style": "confident", "score": 8, "parse_ok": true, "chars": 135, "resp": "{\"score\": 8} \n", "wall_ms": 2286}
+{"config": "g22_base", "task": "ir05", "cat": "应急响应", "style": "confident2", "score": 8, "parse_ok": true, "chars": 156, "resp": "{\"score\": 8} \n", "wall_ms": 2333}
+{"config": "g22_base", "task": "ir05", "cat": "应急响应", "style": "report", "score": 8, "parse_ok": true, "chars": 459, "resp": "{\"score\": 8} \n", "wall_ms": 2419}
