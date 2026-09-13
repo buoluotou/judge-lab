@@ -1,0 +1,229 @@
+{"config": "l32_base", "task": "va01", "cat": "漏洞分析", "style": "-", "score": 9, "parse_ok": true, "chars": 207, "resp": "{\"score\": 9}", "wall_ms": 14378}
+{"config": "l32_base", "task": "va01", "cat": "漏洞分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 374, "resp": "{\"score\": 9}", "wall_ms": 14529}
+{"config": "l32_base", "task": "va01", "cat": "漏洞分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 282, "resp": "{\"score\":8}", "wall_ms": 2168}
+{"config": "l32_base", "task": "va01", "cat": "漏洞分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 202, "resp": "{\"score\": 9}", "wall_ms": 2167}
+{"config": "l32_base", "task": "va01", "cat": "漏洞分析", "style": "confident", "score": 9, "parse_ok": true, "chars": 213, "resp": "{\"score\": 9}", "wall_ms": 2153}
+{"config": "l32_base", "task": "va01", "cat": "漏洞分析", "style": "report", "score": 9, "parse_ok": true, "chars": 444, "resp": "{\"score\": 9}", "wall_ms": 2181}
+{"config": "l32_base", "task": "va02", "cat": "漏洞分析", "style": "-", "score": 9, "parse_ok": true, "chars": 198, "resp": "{\"score\": 9}", "wall_ms": 2179}
+{"config": "l32_base", "task": "va02", "cat": "漏洞分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 377, "resp": "{\"score\": 9}", "wall_ms": 2181}
+{"config": "l32_base", "task": "va02", "cat": "漏洞分析", "style": "bullet", "score": 9, "parse_ok": true, "chars": 349, "resp": "{\"score\": 9}", "wall_ms": 2323}
+{"config": "l32_base", "task": "va02", "cat": "漏洞分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 201, "resp": "{\"score\": 9}", "wall_ms": 2280}
+{"config": "l32_base", "task": "va02", "cat": "漏洞分析", "style": "confident", "score": 9, "parse_ok": true, "chars": 210, "resp": "{\"score\": 9}", "wall_ms": 2358}
+{"config": "l32_base", "task": "va03", "cat": "漏洞分析", "style": "-", "score": 6, "parse_ok": true, "chars": 192, "resp": "{\"score\": 6}", "wall_ms": 2348}
+{"config": "l32_base", "task": "va03", "cat": "漏洞分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 222, "resp": "{\"score\": 8}", "wall_ms": 2350}
+{"config": "l32_base", "task": "va03", "cat": "漏洞分析", "style": "jargon", "score": 8, "parse_ok": true, "chars": 196, "resp": "{\"score\": 8}", "wall_ms": 2360}
+{"config": "l32_base", "task": "va03", "cat": "漏洞分析", "style": "confident", "score": 6, "parse_ok": true, "chars": 201, "resp": "{\"score\": 6}", "wall_ms": 2276}
+{"config": "l32_base", "task": "va03", "cat": "漏洞分析", "style": "report", "score": 9, "parse_ok": true, "chars": 700, "resp": "{\"score\": 9}", "wall_ms": 2377}
+{"config": "l32_base", "task": "va04", "cat": "漏洞分析", "style": "-", "score": 9, "parse_ok": true, "chars": 207, "resp": "{\"score\": 9}", "wall_ms": 2176}
+{"config": "l32_base", "task": "va04", "cat": "漏洞分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 436, "resp": "{\"score\": 9}", "wall_ms": 2218}
+{"config": "l32_base", "task": "va04", "cat": "漏洞分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 363, "resp": "{\"score\":8}", "wall_ms": 2220}
+{"config": "l32_base", "task": "va04", "cat": "漏洞分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 212, "resp": "{\"score\": 9}", "wall_ms": 2215}
+{"config": "l32_base", "task": "va04", "cat": "漏洞分析", "style": "confident", "score": 9, "parse_ok": true, "chars": 223, "resp": "{\"score\": 9}", "wall_ms": 2205}
+{"config": "l32_base", "task": "va04", "cat": "漏洞分析", "style": "report", "score": 8, "parse_ok": true, "chars": 354, "resp": "{\"score\": 8}", "wall_ms": 2243}
+{"config": "l32_base", "task": "va05", "cat": "漏洞分析", "style": "-", "score": 9, "parse_ok": true, "chars": 210, "resp": "{\"score\": 9}", "wall_ms": 2189}
+{"config": "l32_base", "task": "va05", "cat": "漏洞分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 467, "resp": "{\"score\":9}", "wall_ms": 2283}
+{"config": "l32_base", "task": "va05", "cat": "漏洞分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 353, "resp": "{\"score\":8}", "wall_ms": 2240}
+{"config": "l32_base", "task": "va05", "cat": "漏洞分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 215, "resp": "{\"score\": 9}", "wall_ms": 2214}
+{"config": "l32_base", "task": "va05", "cat": "漏洞分析", "style": "confident", "score": 9, "parse_ok": true, "chars": 217, "resp": "{\"score\": 9}", "wall_ms": 2154}
+{"config": "l32_base", "task": "va05", "cat": "漏洞分析", "style": "report", "score": 9, "parse_ok": true, "chars": 370, "resp": "{\"score\": 9}", "wall_ms": 2251}
+{"config": "l32_base", "task": "sa01", "cat": "告警研判", "style": "-", "score": 9, "parse_ok": true, "chars": 160, "resp": "{\"score\": 9}", "wall_ms": 2153}
+{"config": "l32_base", "task": "sa01", "cat": "告警研判", "style": "verbose", "score": 9, "parse_ok": true, "chars": 377, "resp": "{\"score\": 9}", "wall_ms": 2227}
+{"config": "l32_base", "task": "sa01", "cat": "告警研判", "style": "jargon", "score": 9, "parse_ok": true, "chars": 161, "resp": "{\"score\": 9}", "wall_ms": 2158}
+{"config": "l32_base", "task": "sa01", "cat": "告警研判", "style": "confident", "score": 9, "parse_ok": true, "chars": 163, "resp": "{\"score\": 9}", "wall_ms": 2181}
+{"config": "l32_base", "task": "sa01", "cat": "告警研判", "style": "report", "score": 9, "parse_ok": true, "chars": 442, "resp": "{\"score\":9}", "wall_ms": 2265}
+{"config": "l32_base", "task": "sa02", "cat": "告警研判", "style": "-", "score": 9, "parse_ok": true, "chars": 178, "resp": "{\"score\":9}", "wall_ms": 2184}
+{"config": "l32_base", "task": "sa02", "cat": "告警研判", "style": "verbose", "score": 9, "parse_ok": true, "chars": 491, "resp": "{\"score\":9}", "wall_ms": 2208}
+{"config": "l32_base", "task": "sa02", "cat": "告警研判", "style": "bullet", "score": 8, "parse_ok": true, "chars": 227, "resp": "{\"score\": 8}", "wall_ms": 2224}
+{"config": "l32_base", "task": "sa02", "cat": "告警研判", "style": "jargon", "score": 9, "parse_ok": true, "chars": 195, "resp": "{\"score\":9}", "wall_ms": 2153}
+{"config": "l32_base", "task": "sa02", "cat": "告警研判", "style": "confident", "score": 9, "parse_ok": true, "chars": 182, "resp": "{\"score\":9}", "wall_ms": 2199}
+{"config": "l32_base", "task": "sa02", "cat": "告警研判", "style": "report", "score": 9, "parse_ok": true, "chars": 434, "resp": "{\"score\": 9}", "wall_ms": 2220}
+{"config": "l32_base", "task": "sa03", "cat": "告警研判", "style": "-", "score": 8, "parse_ok": true, "chars": 164, "resp": "{\"score\":8}", "wall_ms": 2191}
+{"config": "l32_base", "task": "sa03", "cat": "告警研判", "style": "verbose", "score": 9, "parse_ok": true, "chars": 509, "resp": "{\"score\": 9}", "wall_ms": 2223}
+{"config": "l32_base", "task": "sa03", "cat": "告警研判", "style": "bullet", "score": 8, "parse_ok": true, "chars": 198, "resp": "{\"score\":8}", "wall_ms": 2201}
+{"config": "l32_base", "task": "sa03", "cat": "告警研判", "style": "jargon", "score": 9, "parse_ok": true, "chars": 168, "resp": "{\"score\": 9}", "wall_ms": 2152}
+{"config": "l32_base", "task": "sa03", "cat": "告警研判", "style": "confident", "score": 9, "parse_ok": true, "chars": 168, "resp": "{\"score\":9}", "wall_ms": 2152}
+{"config": "l32_base", "task": "sa03", "cat": "告警研判", "style": "report", "score": 9, "parse_ok": true, "chars": 556, "resp": "{\"score\": 9}", "wall_ms": 2239}
+{"config": "l32_base", "task": "sa04", "cat": "告警研判", "style": "-", "score": 9, "parse_ok": true, "chars": 140, "resp": "{\"score\": 9}", "wall_ms": 2173}
+{"config": "l32_base", "task": "sa04", "cat": "告警研判", "style": "verbose", "score": 9, "parse_ok": true, "chars": 428, "resp": "{\"score\": 9}", "wall_ms": 2220}
+{"config": "l32_base", "task": "sa04", "cat": "告警研判", "style": "bullet", "score": 9, "parse_ok": true, "chars": 224, "resp": "{\"score\": 9}", "wall_ms": 2221}
+{"config": "l32_base", "task": "sa04", "cat": "告警研判", "style": "jargon", "score": 9, "parse_ok": true, "chars": 153, "resp": "{\"score\": 9}", "wall_ms": 2161}
+{"config": "l32_base", "task": "sa04", "cat": "告警研判", "style": "confident", "score": 9, "parse_ok": true, "chars": 140, "resp": "{\"score\": 9}", "wall_ms": 2150}
+{"config": "l32_base", "task": "sa04", "cat": "告警研判", "style": "report", "score": 9, "parse_ok": true, "chars": 510, "resp": "{\"score\": 9}", "wall_ms": 2222}
+{"config": "l32_base", "task": "sa05", "cat": "告警研判", "style": "-", "score": 9, "parse_ok": true, "chars": 145, "resp": "{\"score\": 9}", "wall_ms": 2165}
+{"config": "l32_base", "task": "sa05", "cat": "告警研判", "style": "verbose", "score": 9, "parse_ok": true, "chars": 304, "resp": "{\"score\": 9}", "wall_ms": 2310}
+{"config": "l32_base", "task": "sa05", "cat": "告警研判", "style": "bullet", "score": 8, "parse_ok": true, "chars": 339, "resp": "{\"score\":8}", "wall_ms": 2204}
+{"config": "l32_base", "task": "sa05", "cat": "告警研判", "style": "jargon", "score": 9, "parse_ok": true, "chars": 146, "resp": "{\"score\": 9}", "wall_ms": 2266}
+{"config": "l32_base", "task": "sa05", "cat": "告警研判", "style": "confident", "score": 9, "parse_ok": true, "chars": 148, "resp": "{\"score\": 9}", "wall_ms": 2189}
+{"config": "l32_base", "task": "sa05", "cat": "告警研判", "style": "report", "score": 9, "parse_ok": true, "chars": 540, "resp": "{\"score\":9}", "wall_ms": 2436}
+{"config": "l32_base", "task": "ca01", "cat": "代码审计", "style": "-", "score": 9, "parse_ok": true, "chars": 138, "resp": "{\"score\": 9}", "wall_ms": 2384}
+{"config": "l32_base", "task": "ca01", "cat": "代码审计", "style": "verbose", "score": 9, "parse_ok": true, "chars": 320, "resp": "{\"score\": 9}", "wall_ms": 2342}
+{"config": "l32_base", "task": "ca01", "cat": "代码审计", "style": "bullet", "score": 9, "parse_ok": true, "chars": 138, "resp": "{\"score\": 9}", "wall_ms": 2344}
+{"config": "l32_base", "task": "ca01", "cat": "代码审计", "style": "jargon", "score": 9, "parse_ok": true, "chars": 153, "resp": "{\"score\":9}", "wall_ms": 2247}
+{"config": "l32_base", "task": "ca01", "cat": "代码审计", "style": "confident", "score": 9, "parse_ok": true, "chars": 147, "resp": "{\"score\":9}", "wall_ms": 2274}
+{"config": "l32_base", "task": "ca01", "cat": "代码审计", "style": "report", "score": 9, "parse_ok": true, "chars": 519, "resp": "{\"score\": 9}", "wall_ms": 2393}
+{"config": "l32_base", "task": "ca02", "cat": "代码审计", "style": "-", "score": 9, "parse_ok": true, "chars": 219, "resp": "{\"score\":9}", "wall_ms": 2352}
+{"config": "l32_base", "task": "ca02", "cat": "代码审计", "style": "verbose", "score": 9, "parse_ok": true, "chars": 677, "resp": "{\"score\": 9}", "wall_ms": 2425}
+{"config": "l32_base", "task": "ca02", "cat": "代码审计", "style": "bullet", "score": 9, "parse_ok": true, "chars": 293, "resp": "{\"score\": 9}", "wall_ms": 2469}
+{"config": "l32_base", "task": "ca02", "cat": "代码审计", "style": "jargon", "score": 9, "parse_ok": true, "chars": 247, "resp": "{\"score\": 9}", "wall_ms": 2253}
+{"config": "l32_base", "task": "ca02", "cat": "代码审计", "style": "confident", "score": 9, "parse_ok": true, "chars": 224, "resp": "{\"score\": 9}", "wall_ms": 2206}
+{"config": "l32_base", "task": "ca02", "cat": "代码审计", "style": "report", "score": 9, "parse_ok": true, "chars": 675, "resp": "{\"score\":9}", "wall_ms": 2440}
+{"config": "l32_base", "task": "ca03", "cat": "代码审计", "style": "-", "score": 9, "parse_ok": true, "chars": 150, "resp": "{\"score\": 9}", "wall_ms": 2458}
+{"config": "l32_base", "task": "ca03", "cat": "代码审计", "style": "bullet", "score": 9, "parse_ok": true, "chars": 190, "resp": "{\"score\": 9}", "wall_ms": 2254}
+{"config": "l32_base", "task": "ca03", "cat": "代码审计", "style": "jargon", "score": 9, "parse_ok": true, "chars": 160, "resp": "{\"score\": 9}", "wall_ms": 2287}
+{"config": "l32_base", "task": "ca03", "cat": "代码审计", "style": "confident", "score": 9, "parse_ok": true, "chars": 152, "resp": "{\"score\": 9}", "wall_ms": 2269}
+{"config": "l32_base", "task": "ca03", "cat": "代码审计", "style": "report", "score": 9, "parse_ok": true, "chars": 605, "resp": "{\"score\":9}", "wall_ms": 2298}
+{"config": "l32_base", "task": "ca04", "cat": "代码审计", "style": "-", "score": 9, "parse_ok": true, "chars": 149, "resp": "{\"score\": 9}", "wall_ms": 2298}
+{"config": "l32_base", "task": "ca04", "cat": "代码审计", "style": "verbose", "score": 9, "parse_ok": true, "chars": 342, "resp": "{\"score\": 9}", "wall_ms": 2301}
+{"config": "l32_base", "task": "ca04", "cat": "代码审计", "style": "jargon", "score": 9, "parse_ok": true, "chars": 160, "resp": "{\"score\": 9}", "wall_ms": 2318}
+{"config": "l32_base", "task": "ca04", "cat": "代码审计", "style": "confident", "score": 9, "parse_ok": true, "chars": 157, "resp": "{\"score\": 9}", "wall_ms": 2253}
+{"config": "l32_base", "task": "ca04", "cat": "代码审计", "style": "report", "score": 9, "parse_ok": true, "chars": 527, "resp": "{\"score\":9}", "wall_ms": 2408}
+{"config": "l32_base", "task": "ca05", "cat": "代码审计", "style": "-", "score": 9, "parse_ok": true, "chars": 140, "resp": "{\"score\": 9}", "wall_ms": 2412}
+{"config": "l32_base", "task": "ca05", "cat": "代码审计", "style": "verbose", "score": 9, "parse_ok": true, "chars": 400, "resp": "{\"score\": 9}", "wall_ms": 2299}
+{"config": "l32_base", "task": "ca05", "cat": "代码审计", "style": "jargon", "score": 9, "parse_ok": true, "chars": 156, "resp": "{\"score\":9}", "wall_ms": 2280}
+{"config": "l32_base", "task": "ca05", "cat": "代码审计", "style": "confident", "score": 9, "parse_ok": true, "chars": 157, "resp": "{\"score\": 9}", "wall_ms": 2291}
+{"config": "l32_base", "task": "ca05", "cat": "代码审计", "style": "report", "score": 9, "parse_ok": true, "chars": 748, "resp": "{\"score\": 9}", "wall_ms": 2396}
+{"config": "l32_base", "task": "io01", "cat": "IOC分析", "style": "-", "score": 9, "parse_ok": true, "chars": 213, "resp": "{\"score\":9}", "wall_ms": 2312}
+{"config": "l32_base", "task": "io01", "cat": "IOC分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 408, "resp": "{\"score\": 9}", "wall_ms": 2298}
+{"config": "l32_base", "task": "io01", "cat": "IOC分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 241, "resp": "{\"score\":8}", "wall_ms": 2164}
+{"config": "l32_base", "task": "io01", "cat": "IOC分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 227, "resp": "{\"score\": 9}", "wall_ms": 2185}
+{"config": "l32_base", "task": "io01", "cat": "IOC分析", "style": "confident", "score": 9, "parse_ok": true, "chars": 223, "resp": "{\"score\": 9}", "wall_ms": 2199}
+{"config": "l32_base", "task": "io01", "cat": "IOC分析", "style": "report", "score": 9, "parse_ok": true, "chars": 628, "resp": "{\"score\": 9}", "wall_ms": 2329}
+{"config": "l32_base", "task": "io02", "cat": "IOC分析", "style": "-", "score": 9, "parse_ok": true, "chars": 143, "resp": "{\"score\": 9}", "wall_ms": 2188}
+{"config": "l32_base", "task": "io02", "cat": "IOC分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 227, "resp": "{\"score\": 9}", "wall_ms": 2220}
+{"config": "l32_base", "task": "io02", "cat": "IOC分析", "style": "bullet", "score": 9, "parse_ok": true, "chars": 174, "resp": "{\"score\": 9}", "wall_ms": 2298}
+{"config": "l32_base", "task": "io02", "cat": "IOC分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 156, "resp": "{\"score\": 9}", "wall_ms": 2169}
+{"config": "l32_base", "task": "io02", "cat": "IOC分析", "style": "confident", "score": 9, "parse_ok": true, "chars": 153, "resp": "{\"score\":9}", "wall_ms": 2252}
+{"config": "l32_base", "task": "io02", "cat": "IOC分析", "style": "report", "score": 9, "parse_ok": true, "chars": 592, "resp": "{\"score\": 9}", "wall_ms": 2239}
+{"config": "l32_base", "task": "io03", "cat": "IOC分析", "style": "-", "score": 9, "parse_ok": true, "chars": 313, "resp": "{\"score\": 9}", "wall_ms": 2312}
+{"config": "l32_base", "task": "io03", "cat": "IOC分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 389, "resp": "{\"score\": 9}", "wall_ms": 2249}
+{"config": "l32_base", "task": "io03", "cat": "IOC分析", "style": "bullet", "score": 9, "parse_ok": true, "chars": 419, "resp": "{\"score\": 9}", "wall_ms": 2368}
+{"config": "l32_base", "task": "io03", "cat": "IOC分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 323, "resp": "{\"score\": 9}", "wall_ms": 2335}
+{"config": "l32_base", "task": "io03", "cat": "IOC分析", "style": "confident", "score": 9, "parse_ok": true, "chars": 317, "resp": "{\"score\": 9}", "wall_ms": 2318}
+{"config": "l32_base", "task": "io03", "cat": "IOC分析", "style": "report", "score": 9, "parse_ok": true, "chars": 685, "resp": "{\"score\": 9}", "wall_ms": 2417}
+{"config": "l32_base", "task": "io04", "cat": "IOC分析", "style": "-", "score": 9, "parse_ok": true, "chars": 176, "resp": "{\"score\": 9}", "wall_ms": 2287}
+{"config": "l32_base", "task": "io04", "cat": "IOC分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 461, "resp": "{\"score\": 9}", "wall_ms": 2266}
+{"config": "l32_base", "task": "io04", "cat": "IOC分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 357, "resp": "{\"score\": 8}", "wall_ms": 2333}
+{"config": "l32_base", "task": "io04", "cat": "IOC分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 183, "resp": "{\"score\": 9}", "wall_ms": 2236}
+{"config": "l32_base", "task": "io04", "cat": "IOC分析", "style": "confident", "score": 8, "parse_ok": true, "chars": 183, "resp": "{\"score\":8}", "wall_ms": 2338}
+{"config": "l32_base", "task": "io04", "cat": "IOC分析", "style": "report", "score": 9, "parse_ok": true, "chars": 496, "resp": "{\"score\":9}", "wall_ms": 2371}
+{"config": "l32_base", "task": "io05", "cat": "IOC分析", "style": "-", "score": 9, "parse_ok": true, "chars": 128, "resp": "{\"score\": 9}", "wall_ms": 2297}
+{"config": "l32_base", "task": "io05", "cat": "IOC分析", "style": "verbose", "score": 9, "parse_ok": true, "chars": 338, "resp": "{\"score\": 9}", "wall_ms": 2339}
+{"config": "l32_base", "task": "io05", "cat": "IOC分析", "style": "bullet", "score": 8, "parse_ok": true, "chars": 278, "resp": "{\"score\":8}", "wall_ms": 2231}
+{"config": "l32_base", "task": "io05", "cat": "IOC分析", "style": "jargon", "score": 9, "parse_ok": true, "chars": 137, "resp": "{\"score\": 9}", "wall_ms": 2178}
+{"config": "l32_base", "task": "io05", "cat": "IOC分析", "style": "confident", "score": 9, "parse_ok": true, "chars": 135, "resp": "{\"score\": 9}", "wall_ms": 2278}
+{"config": "l32_base", "task": "io05", "cat": "IOC分析", "style": "report", "score": 9, "parse_ok": true, "chars": 432, "resp": "{\"score\": 9}", "wall_ms": 2288}
+{"config": "l32_base", "task": "rr01", "cat": "风险评级", "style": "-", "score": 9, "parse_ok": true, "chars": 145, "resp": "{\"score\": 9}", "wall_ms": 2298}
+{"config": "l32_base", "task": "rr01", "cat": "风险评级", "style": "verbose", "score": 9, "parse_ok": true, "chars": 305, "resp": "{\"score\": 9}", "wall_ms": 2337}
+{"config": "l32_base", "task": "rr01", "cat": "风险评级", "style": "bullet", "score": 9, "parse_ok": true, "chars": 177, "resp": "{\"score\": 9}", "wall_ms": 2167}
+{"config": "l32_base", "task": "rr01", "cat": "风险评级", "style": "jargon", "score": 9, "parse_ok": true, "chars": 157, "resp": "{\"score\": 9}", "wall_ms": 2205}
+{"config": "l32_base", "task": "rr01", "cat": "风险评级", "style": "confident", "score": 9, "parse_ok": true, "chars": 147, "resp": "{\"score\": 9}", "wall_ms": 2161}
+{"config": "l32_base", "task": "rr01", "cat": "风险评级", "style": "report", "score": 9, "parse_ok": true, "chars": 347, "resp": "{\"score\": 9}", "wall_ms": 2221}
+{"config": "l32_base", "task": "rr02", "cat": "风险评级", "style": "-", "score": 9, "parse_ok": true, "chars": 145, "resp": "{\"score\": 9}", "wall_ms": 2146}
+{"config": "l32_base", "task": "rr02", "cat": "风险评级", "style": "verbose", "score": 9, "parse_ok": true, "chars": 436, "resp": "{\"score\": 9}", "wall_ms": 2198}
+{"config": "l32_base", "task": "rr02", "cat": "风险评级", "style": "bullet", "score": 8, "parse_ok": true, "chars": 186, "resp": "{\"score\": 8}", "wall_ms": 2173}
+{"config": "l32_base", "task": "rr02", "cat": "风险评级", "style": "jargon", "score": 9, "parse_ok": true, "chars": 153, "resp": "{\"score\": 9}", "wall_ms": 2169}
+{"config": "l32_base", "task": "rr02", "cat": "风险评级", "style": "confident", "score": 9, "parse_ok": true, "chars": 144, "resp": "{\"score\": 9}", "wall_ms": 2126}
+{"config": "l32_base", "task": "rr02", "cat": "风险评级", "style": "report", "score": 8, "parse_ok": true, "chars": 219, "resp": "{\"score\": 8}", "wall_ms": 2175}
+{"config": "l32_base", "task": "rr03", "cat": "风险评级", "style": "-", "score": 9, "parse_ok": true, "chars": 121, "resp": "{\"score\":9}", "wall_ms": 2168}
+{"config": "l32_base", "task": "rr03", "cat": "风险评级", "style": "verbose", "score": 9, "parse_ok": true, "chars": 244, "resp": "{\"score\": 9}", "wall_ms": 2192}
+{"config": "l32_base", "task": "rr03", "cat": "风险评级", "style": "bullet", "score": 8, "parse_ok": true, "chars": 184, "resp": "{\"score\":8}", "wall_ms": 2171}
+{"config": "l32_base", "task": "rr03", "cat": "风险评级", "style": "jargon", "score": 9, "parse_ok": true, "chars": 121, "resp": "{\"score\":9}", "wall_ms": 2124}
+{"config": "l32_base", "task": "rr03", "cat": "风险评级", "style": "confident", "score": 9, "parse_ok": true, "chars": 126, "resp": "{\"score\":9}", "wall_ms": 2261}
+{"config": "l32_base", "task": "rr03", "cat": "风险评级", "style": "report", "score": 9, "parse_ok": true, "chars": 504, "resp": "{\"score\": 9}", "wall_ms": 2343}
+{"config": "l32_base", "task": "rr04", "cat": "风险评级", "style": "-", "score": 8, "parse_ok": true, "chars": 124, "resp": "{\"score\": 8}", "wall_ms": 2157}
+{"config": "l32_base", "task": "rr04", "cat": "风险评级", "style": "verbose", "score": 8, "parse_ok": true, "chars": 249, "resp": "{\"score\":8}", "wall_ms": 2151}
+{"config": "l32_base", "task": "rr04", "cat": "风险评级", "style": "bullet", "score": 8, "parse_ok": true, "chars": 149, "resp": "{\"score\": 8}", "wall_ms": 2169}
+{"config": "l32_base", "task": "rr04", "cat": "风险评级", "style": "jargon", "score": 8, "parse_ok": true, "chars": 134, "resp": "{\"score\": 8}", "wall_ms": 2162}
+{"config": "l32_base", "task": "rr04", "cat": "风险评级", "style": "confident", "score": 8, "parse_ok": true, "chars": 126, "resp": "{\"score\": 8}", "wall_ms": 2236}
+{"config": "l32_base", "task": "rr04", "cat": "风险评级", "style": "report", "score": 8, "parse_ok": true, "chars": 520, "resp": "{\"score\": 8}", "wall_ms": 2370}
+{"config": "l32_base", "task": "rr05", "cat": "风险评级", "style": "-", "score": 9, "parse_ok": true, "chars": 130, "resp": "{\"score\":9}", "wall_ms": 2187}
+{"config": "l32_base", "task": "rr05", "cat": "风险评级", "style": "verbose", "score": 9, "parse_ok": true, "chars": 253, "resp": "{\"score\": 9}", "wall_ms": 2221}
+{"config": "l32_base", "task": "rr05", "cat": "风险评级", "style": "bullet", "score": 8, "parse_ok": true, "chars": 176, "resp": "{\"score\": 8}", "wall_ms": 2298}
+{"config": "l32_base", "task": "rr05", "cat": "风险评级", "style": "jargon", "score": 9, "parse_ok": true, "chars": 131, "resp": "{\"score\":9}", "wall_ms": 2167}
+{"config": "l32_base", "task": "rr05", "cat": "风险评级", "style": "confident", "score": 9, "parse_ok": true, "chars": 136, "resp": "{\"score\":9}", "wall_ms": 2223}
+{"config": "l32_base", "task": "rr05", "cat": "风险评级", "style": "report", "score": 9, "parse_ok": true, "chars": 430, "resp": "{\"score\":9}", "wall_ms": 2200}
+{"config": "l32_base", "task": "ir01", "cat": "应急响应", "style": "-", "score": 9, "parse_ok": true, "chars": 172, "resp": "{\"score\":9}", "wall_ms": 2231}
+{"config": "l32_base", "task": "ir01", "cat": "应急响应", "style": "verbose", "score": 9, "parse_ok": true, "chars": 409, "resp": "{\"score\": 9}", "wall_ms": 2240}
+{"config": "l32_base", "task": "ir01", "cat": "应急响应", "style": "jargon", "score": 9, "parse_ok": true, "chars": 194, "resp": "{\"score\": 9}", "wall_ms": 2210}
+{"config": "l32_base", "task": "ir01", "cat": "应急响应", "style": "confident", "score": 9, "parse_ok": true, "chars": 174, "resp": "{\"score\": 9}", "wall_ms": 2167}
+{"config": "l32_base", "task": "ir01", "cat": "应急响应", "style": "report", "score": 8, "parse_ok": true, "chars": 538, "resp": "{\"score\":8}", "wall_ms": 2390}
+{"config": "l32_base", "task": "ir02", "cat": "应急响应", "style": "-", "score": 8, "parse_ok": true, "chars": 111, "resp": "{\"score\":8}", "wall_ms": 2178}
+{"config": "l32_base", "task": "ir02", "cat": "应急响应", "style": "verbose", "score": 8, "parse_ok": true, "chars": 316, "resp": "{\"score\": 8}", "wall_ms": 2380}
+{"config": "l32_base", "task": "ir02", "cat": "应急响应", "style": "bullet", "score": 8, "parse_ok": true, "chars": 96, "resp": "{\"score\": 8}", "wall_ms": 2302}
+{"config": "l32_base", "task": "ir02", "cat": "应急响应", "style": "jargon", "score": 9, "parse_ok": true, "chars": 120, "resp": "{\"score\": 9}", "wall_ms": 2252}
+{"config": "l32_base", "task": "ir02", "cat": "应急响应", "style": "confident", "score": 9, "parse_ok": true, "chars": 113, "resp": "{\"score\": 9}", "wall_ms": 2287}
+{"config": "l32_base", "task": "ir02", "cat": "应急响应", "style": "report", "score": 9, "parse_ok": true, "chars": 521, "resp": "{\"score\": 9}", "wall_ms": 2446}
+{"config": "l32_base", "task": "ir03", "cat": "应急响应", "style": "-", "score": 9, "parse_ok": true, "chars": 134, "resp": "{\"score\": 9}", "wall_ms": 2427}
+{"config": "l32_base", "task": "ir03", "cat": "应急响应", "style": "verbose", "score": 9, "parse_ok": true, "chars": 442, "resp": "{\"score\": 9}", "wall_ms": 2365}
+{"config": "l32_base", "task": "ir03", "cat": "应急响应", "style": "bullet", "score": 9, "parse_ok": true, "chars": 120, "resp": "{\"score\": 9}", "wall_ms": 2362}
+{"config": "l32_base", "task": "ir03", "cat": "应急响应", "style": "jargon", "score": 9, "parse_ok": true, "chars": 156, "resp": "{\"score\":9}", "wall_ms": 2254}
+{"config": "l32_base", "task": "ir03", "cat": "应急响应", "style": "confident", "score": 9, "parse_ok": true, "chars": 156, "resp": "{\"score\": 9}", "wall_ms": 2270}
+{"config": "l32_base", "task": "ir03", "cat": "应急响应", "style": "report", "score": 9, "parse_ok": true, "chars": 553, "resp": "{\"score\": 9}", "wall_ms": 2370}
+{"config": "l32_base", "task": "ir04", "cat": "应急响应", "style": "-", "score": 9, "parse_ok": true, "chars": 119, "resp": "{\"score\": 9}", "wall_ms": 2341}
+{"config": "l32_base", "task": "ir04", "cat": "应急响应", "style": "verbose", "score": 9, "parse_ok": true, "chars": 396, "resp": "{\"score\": 9}", "wall_ms": 2380}
+{"config": "l32_base", "task": "ir04", "cat": "应急响应", "style": "bullet", "score": 8, "parse_ok": true, "chars": 160, "resp": "{\"score\": 8}", "wall_ms": 2408}
+{"config": "l32_base", "task": "ir04", "cat": "应急响应", "style": "jargon", "score": 9, "parse_ok": true, "chars": 145, "resp": "{\"score\": 9}", "wall_ms": 2271}
+{"config": "l32_base", "task": "ir04", "cat": "应急响应", "style": "confident", "score": 8, "parse_ok": true, "chars": 125, "resp": "{\"score\": 8}", "wall_ms": 2242}
+{"config": "l32_base", "task": "ir04", "cat": "应急响应", "style": "report", "score": 9, "parse_ok": true, "chars": 439, "resp": "{\"score\": 9}", "wall_ms": 2432}
+{"config": "l32_base", "task": "ir05", "cat": "应急响应", "style": "-", "score": 9, "parse_ok": true, "chars": 120, "resp": "{\"score\": 9}", "wall_ms": 2441}
+{"config": "l32_base", "task": "ir05", "cat": "应急响应", "style": "verbose", "score": 9, "parse_ok": true, "chars": 296, "resp": "{\"score\": 9}", "wall_ms": 2344}
+{"config": "l32_base", "task": "ir05", "cat": "应急响应", "style": "bullet", "score": 9, "parse_ok": true, "chars": 194, "resp": "{\"score\": 9}", "wall_ms": 2375}
+{"config": "l32_base", "task": "ir05", "cat": "应急响应", "style": "jargon", "score": 9, "parse_ok": true, "chars": 143, "resp": "{\"score\":9}", "wall_ms": 2276}
+{"config": "l32_base", "task": "ir05", "cat": "应急响应", "style": "confident", "score": 9, "parse_ok": true, "chars": 135, "resp": "{\"score\": 9}", "wall_ms": 2266}
+{"config": "l32_base", "task": "ir05", "cat": "应急响应", "style": "report", "score": 9, "parse_ok": true, "chars": 459, "resp": "{\"score\": 9}", "wall_ms": 2436}
+{"config": "l32_base", "task": "va01", "cat": "漏洞分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 216, "resp": "{\"score\": 8}", "wall_ms": 9348}
+{"config": "l32_base", "task": "va01", "cat": "漏洞分析", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 230, "resp": "{\"score\": 9}", "wall_ms": 9583}
+{"config": "l32_base", "task": "va02", "cat": "漏洞分析", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 247, "resp": "{\"score\": 9}", "wall_ms": 2307}
+{"config": "l32_base", "task": "va02", "cat": "漏洞分析", "style": "confident2", "score": 9, "parse_ok": true, "chars": 210, "resp": "{\"score\": 9}", "wall_ms": 2310}
+{"config": "l32_base", "task": "va03", "cat": "漏洞分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 233, "resp": "{\"score\": 8}", "wall_ms": 2466}
+{"config": "l32_base", "task": "va03", "cat": "漏洞分析", "style": "confident2", "score": 6, "parse_ok": true, "chars": 209, "resp": "{\"score\": 6}", "wall_ms": 2472}
+{"config": "l32_base", "task": "va04", "cat": "漏洞分析", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 227, "resp": "{\"score\": 9}", "wall_ms": 2332}
+{"config": "l32_base", "task": "va04", "cat": "漏洞分析", "style": "confident2", "score": 9, "parse_ok": true, "chars": 217, "resp": "{\"score\": 9}", "wall_ms": 2323}
+{"config": "l32_base", "task": "va05", "cat": "漏洞分析", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 268, "resp": "{\"score\": 9}", "wall_ms": 2477}
+{"config": "l32_base", "task": "va05", "cat": "漏洞分析", "style": "confident2", "score": 9, "parse_ok": true, "chars": 223, "resp": "{\"score\": 9}", "wall_ms": 2480}
+{"config": "l32_base", "task": "sa01", "cat": "告警研判", "style": "confident2", "score": 9, "parse_ok": true, "chars": 162, "resp": "{\"score\":9}", "wall_ms": 2386}
+{"config": "l32_base", "task": "sa02", "cat": "告警研判", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 187, "resp": "{\"score\":9}", "wall_ms": 2340}
+{"config": "l32_base", "task": "sa02", "cat": "告警研判", "style": "confident2", "score": 9, "parse_ok": true, "chars": 176, "resp": "{\"score\":9}", "wall_ms": 2333}
+{"config": "l32_base", "task": "sa03", "cat": "告警研判", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 168, "resp": "{\"score\":8}", "wall_ms": 2322}
+{"config": "l32_base", "task": "sa03", "cat": "告警研判", "style": "confident2", "score": 9, "parse_ok": true, "chars": 173, "resp": "{\"score\":9}", "wall_ms": 2426}
+{"config": "l32_base", "task": "sa04", "cat": "告警研判", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 233, "resp": "{\"score\": 9}", "wall_ms": 2483}
+{"config": "l32_base", "task": "sa04", "cat": "告警研判", "style": "confident2", "score": 9, "parse_ok": true, "chars": 142, "resp": "{\"score\": 9}", "wall_ms": 2346}
+{"config": "l32_base", "task": "sa05", "cat": "告警研判", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 144, "resp": "{\"score\": 9}", "wall_ms": 2317}
+{"config": "l32_base", "task": "sa05", "cat": "告警研判", "style": "confident2", "score": 9, "parse_ok": true, "chars": 153, "resp": "{\"score\": 9}", "wall_ms": 2446}
+{"config": "l32_base", "task": "ca01", "cat": "代码审计", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 151, "resp": "{\"score\": 9}", "wall_ms": 2433}
+{"config": "l32_base", "task": "ca01", "cat": "代码审计", "style": "confident2", "score": 9, "parse_ok": true, "chars": 151, "resp": "{\"score\": 9}", "wall_ms": 2427}
+{"config": "l32_base", "task": "ca02", "cat": "代码审计", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 250, "resp": "{\"score\": 9}", "wall_ms": 2438}
+{"config": "l32_base", "task": "ca02", "cat": "代码审计", "style": "confident2", "score": 9, "parse_ok": true, "chars": 229, "resp": "{\"score\": 9}", "wall_ms": 2401}
+{"config": "l32_base", "task": "ca03", "cat": "代码审计", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 349, "resp": "{\"score\":9}", "wall_ms": 2423}
+{"config": "l32_base", "task": "ca03", "cat": "代码审计", "style": "confident2", "score": 9, "parse_ok": true, "chars": 154, "resp": "{\"score\": 9}", "wall_ms": 2377}
+{"config": "l32_base", "task": "ca04", "cat": "代码审计", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 159, "resp": "{\"score\": 9}", "wall_ms": 2349}
+{"config": "l32_base", "task": "ca04", "cat": "代码审计", "style": "confident2", "score": 9, "parse_ok": true, "chars": 149, "resp": "{\"score\": 9}", "wall_ms": 2424}
+{"config": "l32_base", "task": "ca05", "cat": "代码审计", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 454, "resp": "{\"score\": 9}", "wall_ms": 2498}
+{"config": "l32_base", "task": "io01", "cat": "IOC分析", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 213, "resp": "{\"score\":9}", "wall_ms": 2379}
+{"config": "l32_base", "task": "io01", "cat": "IOC分析", "style": "confident2", "score": 9, "parse_ok": true, "chars": 213, "resp": "{\"score\":9}", "wall_ms": 2327}
+{"config": "l32_base", "task": "io02", "cat": "IOC分析", "style": "jargon2", "score": 8, "parse_ok": true, "chars": 159, "resp": "{\"score\":8}", "wall_ms": 2331}
+{"config": "l32_base", "task": "io02", "cat": "IOC分析", "style": "confident2", "score": 6, "parse_ok": true, "chars": 151, "resp": "{\"score\": 6}", "wall_ms": 2326}
+{"config": "l32_base", "task": "io03", "cat": "IOC分析", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 322, "resp": "{\"score\": 9}", "wall_ms": 2547}
+{"config": "l32_base", "task": "io04", "cat": "IOC分析", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 219, "resp": "{\"score\": 9}", "wall_ms": 2585}
+{"config": "l32_base", "task": "io04", "cat": "IOC分析", "style": "confident2", "score": 8, "parse_ok": true, "chars": 183, "resp": "{\"score\":8}", "wall_ms": 2434}
+{"config": "l32_base", "task": "io05", "cat": "IOC分析", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 127, "resp": "{\"score\": 9}", "wall_ms": 2382}
+{"config": "l32_base", "task": "io05", "cat": "IOC分析", "style": "confident2", "score": 9, "parse_ok": true, "chars": 134, "resp": "{\"score\":9}", "wall_ms": 2422}
+{"config": "l32_base", "task": "rr01", "cat": "风险评级", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 194, "resp": "{\"score\": 9}", "wall_ms": 2444}
+{"config": "l32_base", "task": "rr01", "cat": "风险评级", "style": "confident2", "score": 9, "parse_ok": true, "chars": 153, "resp": "{\"score\": 9}", "wall_ms": 2426}
+{"config": "l32_base", "task": "rr02", "cat": "风险评级", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 338, "resp": "{\"score\": 9}", "wall_ms": 2451}
+{"config": "l32_base", "task": "rr02", "cat": "风险评级", "style": "confident2", "score": 8, "parse_ok": true, "chars": 148, "resp": "{\"score\": 8}", "wall_ms": 2434}
+{"config": "l32_base", "task": "rr03", "cat": "风险评级", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 167, "resp": "{\"score\": 9}", "wall_ms": 2417}
+{"config": "l32_base", "task": "rr03", "cat": "风险评级", "style": "confident2", "score": 9, "parse_ok": true, "chars": 129, "resp": "{\"score\":9}", "wall_ms": 2349}
+{"config": "l32_base", "task": "rr04", "cat": "风险评级", "style": "confident2", "score": 8, "parse_ok": true, "chars": 126, "resp": "{\"score\": 8}", "wall_ms": 2323}
+{"config": "l32_base", "task": "rr05", "cat": "风险评级", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 147, "resp": "{\"score\": 9}", "wall_ms": 2427}
+{"config": "l32_base", "task": "rr05", "cat": "风险评级", "style": "confident2", "score": 9, "parse_ok": true, "chars": 125, "resp": "{\"score\": 9}", "wall_ms": 2424}
+{"config": "l32_base", "task": "ir01", "cat": "应急响应", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 189, "resp": "{\"score\": 9}", "wall_ms": 2426}
+{"config": "l32_base", "task": "ir01", "cat": "应急响应", "style": "confident2", "score": 9, "parse_ok": true, "chars": 175, "resp": "{\"score\": 9}", "wall_ms": 2438}
+{"config": "l32_base", "task": "ir02", "cat": "应急响应", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 130, "resp": "{\"score\": 9}", "wall_ms": 2374}
+{"config": "l32_base", "task": "ir02", "cat": "应急响应", "style": "confident2", "score": 9, "parse_ok": true, "chars": 130, "resp": "{\"score\": 9}", "wall_ms": 2372}
+{"config": "l32_base", "task": "ir03", "cat": "应急响应", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 288, "resp": "{\"score\":9}", "wall_ms": 2356}
+{"config": "l32_base", "task": "ir03", "cat": "应急响应", "style": "confident2", "score": 9, "parse_ok": true, "chars": 155, "resp": "{\"score\":9}", "wall_ms": 2353}
+{"config": "l32_base", "task": "ir04", "cat": "应急响应", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 144, "resp": "{\"score\": 9}", "wall_ms": 2427}
+{"config": "l32_base", "task": "ir04", "cat": "应急响应", "style": "confident2", "score": 9, "parse_ok": true, "chars": 132, "resp": "{\"score\": 9}", "wall_ms": 2436}
+{"config": "l32_base", "task": "ir05", "cat": "应急响应", "style": "jargon2", "score": 9, "parse_ok": true, "chars": 126, "resp": "{\"score\": 9}", "wall_ms": 2406}
+{"config": "l32_base", "task": "ir05", "cat": "应急响应", "style": "confident2", "score": 9, "parse_ok": true, "chars": 156, "resp": "{\"score\":9}", "wall_ms": 2404}
